@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sample.junitsample.greeting.PersonTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.374 s - in com.sample.junitsample.greeting.PersonTest
